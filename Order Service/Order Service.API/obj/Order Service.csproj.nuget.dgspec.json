@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\suyashkhanna\\Desktop\\nagp assignment microservices advances 2\\Microservices\\Order Service\\Order Service.API\\Order Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\suyashkhanna\\Desktop\\nagp assignment microservices advances 2\\Microservices\\Order Service\\Order Service.API\\Order Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\suyashkhanna\\Desktop\\nagp assignment microservices advances 2\\Microservices\\Order Service\\Order Service.API\\Order Service.csproj",
+        "projectName": "Order Service",
+        "projectPath": "C:\\Users\\suyashkhanna\\Desktop\\nagp assignment microservices advances 2\\Microservices\\Order Service\\Order Service.API\\Order Service.csproj",
+        "packagesPath": "C:\\Users\\suyashkhanna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\suyashkhanna\\Desktop\\nagp assignment microservices advances 2\\Microservices\\Order Service\\Order Service.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\suyashkhanna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Jaeger": {
+              "target": "Package",
+              "version": "[0.3.7, )"
+            },
+            "OpenTracing.Contrib.NetCore": {
+              "target": "Package",
+              "version": "[0.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

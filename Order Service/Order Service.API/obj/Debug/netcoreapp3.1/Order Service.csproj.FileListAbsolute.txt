@@ -1,0 +1,50 @@
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Order Service\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Order Service\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Order Service\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Order Service\bin\Debug\netcoreapp3.1\Order Service.exe
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Order Service\bin\Debug\netcoreapp3.1\Order Service.deps.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Order Service\bin\Debug\netcoreapp3.1\Order Service.runtimeconfig.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Order Service\bin\Debug\netcoreapp3.1\Order Service.runtimeconfig.dev.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Order Service\bin\Debug\netcoreapp3.1\Order Service.dll
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Order Service\bin\Debug\netcoreapp3.1\Order Service.pdb
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Order Service\obj\Debug\netcoreapp3.1\Order Service.csprojAssemblyReference.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Order Service\obj\Debug\netcoreapp3.1\staticwebassets\Order Service.StaticWebAssets.Manifest.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Order Service\obj\Debug\netcoreapp3.1\staticwebassets\Order Service.StaticWebAssets.xml
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Order Service\obj\Debug\netcoreapp3.1\Order Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Order Service\obj\Debug\netcoreapp3.1\Order Service.AssemblyInfoInputs.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Order Service\obj\Debug\netcoreapp3.1\Order Service.AssemblyInfo.cs
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Order Service\obj\Debug\netcoreapp3.1\Order Service.RazorTargetAssemblyInfo.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Order Service\obj\Debug\netcoreapp3.1\Order Service.dll
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Order Service\obj\Debug\netcoreapp3.1\Order Service.pdb
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\bin\Debug\netcoreapp3.1\Order Service.exe
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\bin\Debug\netcoreapp3.1\Order Service.deps.json
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\bin\Debug\netcoreapp3.1\Order Service.runtimeconfig.json
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\bin\Debug\netcoreapp3.1\Order Service.runtimeconfig.dev.json
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\bin\Debug\netcoreapp3.1\Order Service.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\bin\Debug\netcoreapp3.1\Order Service.pdb
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\bin\Debug\netcoreapp3.1\Jaeger.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\bin\Debug\netcoreapp3.1\Jaeger.Thrift.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\bin\Debug\netcoreapp3.1\Jaeger.Thrift.VendoredThrift.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\bin\Debug\netcoreapp3.1\OpenTracing.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\bin\Debug\netcoreapp3.1\OpenTracing.Contrib.NetCore.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\obj\Debug\netcoreapp3.1\Order Service.csprojAssemblyReference.cache
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Order Service.StaticWebAssets.Manifest.cache
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Order Service.StaticWebAssets.xml
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\obj\Debug\netcoreapp3.1\Order Service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\obj\Debug\netcoreapp3.1\Order Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\obj\Debug\netcoreapp3.1\Order Service.AssemblyInfoInputs.cache
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\obj\Debug\netcoreapp3.1\Order Service.AssemblyInfo.cs
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\obj\Debug\netcoreapp3.1\Order Service.RazorTargetAssemblyInfo.cache
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\obj\Debug\netcoreapp3.1\Order Service.csproj.CopyComplete
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\obj\Debug\netcoreapp3.1\Order Service.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Order Service\Order Service.API\obj\Debug\netcoreapp3.1\Order Service.pdb

@@ -1,0 +1,68 @@
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\bin\Debug\netcoreapp3.1\Aggregator Service.exe
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\bin\Debug\netcoreapp3.1\Aggregator Service.deps.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\bin\Debug\netcoreapp3.1\Aggregator Service.runtimeconfig.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\bin\Debug\netcoreapp3.1\Aggregator Service.runtimeconfig.dev.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\bin\Debug\netcoreapp3.1\Aggregator Service.dll
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\bin\Debug\netcoreapp3.1\Aggregator Service.pdb
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\obj\Debug\netcoreapp3.1\Aggregator Service.csprojAssemblyReference.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\obj\Debug\netcoreapp3.1\staticwebassets\Aggregator Service.StaticWebAssets.Manifest.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\obj\Debug\netcoreapp3.1\staticwebassets\Aggregator Service.StaticWebAssets.xml
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\obj\Debug\netcoreapp3.1\Aggregator Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\obj\Debug\netcoreapp3.1\Aggregator Service.AssemblyInfoInputs.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\obj\Debug\netcoreapp3.1\Aggregator Service.AssemblyInfo.cs
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\obj\Debug\netcoreapp3.1\Aggregator Service.RazorTargetAssemblyInfo.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\obj\Debug\netcoreapp3.1\Aggregator Service.dll
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\obj\Debug\netcoreapp3.1\Aggregator Service.pdb
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\Aggregator Service.exe
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\Aggregator Service.deps.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\Aggregator Service.runtimeconfig.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\Aggregator Service.runtimeconfig.dev.json
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\Aggregator Service.dll
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\Aggregator Service.pdb
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\Aggregator Service.API\obj\Debug\netcoreapp3.1\Aggregator Service.csprojAssemblyReference.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\Aggregator Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Aggregator Service.StaticWebAssets.Manifest.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\Aggregator Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Aggregator Service.StaticWebAssets.xml
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\Aggregator Service.API\obj\Debug\netcoreapp3.1\Aggregator Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\Aggregator Service.API\obj\Debug\netcoreapp3.1\Aggregator Service.AssemblyInfoInputs.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\Aggregator Service.API\obj\Debug\netcoreapp3.1\Aggregator Service.AssemblyInfo.cs
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\Aggregator Service.API\obj\Debug\netcoreapp3.1\Aggregator Service.RazorTargetAssemblyInfo.cache
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\Aggregator Service.API\obj\Debug\netcoreapp3.1\Aggregator Service.dll
+C:\Users\suyashkhanna\Desktop\NAGP Microservices Assignment 2\Microservices\Aggregator Service\Aggregator Service.API\obj\Debug\netcoreapp3.1\Aggregator Service.pdb
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\Aggregator Service.exe
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\Aggregator Service.deps.json
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\Aggregator Service.runtimeconfig.json
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\Aggregator Service.runtimeconfig.dev.json
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\Aggregator Service.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\Aggregator Service.pdb
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\Jaeger.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\Jaeger.Thrift.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\Jaeger.Thrift.VendoredThrift.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\OpenTracing.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\OpenTracing.Contrib.NetCore.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\obj\Debug\netcoreapp3.1\Aggregator Service.csprojAssemblyReference.cache
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Aggregator Service.StaticWebAssets.Manifest.cache
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\obj\Debug\netcoreapp3.1\staticwebassets\Aggregator Service.StaticWebAssets.xml
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\obj\Debug\netcoreapp3.1\Aggregator Service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\obj\Debug\netcoreapp3.1\Aggregator Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\obj\Debug\netcoreapp3.1\Aggregator Service.AssemblyInfoInputs.cache
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\obj\Debug\netcoreapp3.1\Aggregator Service.AssemblyInfo.cs
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\obj\Debug\netcoreapp3.1\Aggregator Service.RazorTargetAssemblyInfo.cache
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\obj\Debug\netcoreapp3.1\Aggregator Service.csproj.CopyComplete
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\obj\Debug\netcoreapp3.1\Aggregator Service.dll
+C:\Users\suyashkhanna\Desktop\nagp assignment microservices advances 2\Microservices\Aggregator Service\Aggregator Service.API\obj\Debug\netcoreapp3.1\Aggregator Service.pdb
